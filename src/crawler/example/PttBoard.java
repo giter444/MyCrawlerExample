@@ -33,7 +33,7 @@ class PttBoard {
 
     public static void main(String[] argv){
 
-    	// 取得前一頁的index
+    	// 取得前一頁的index ex
 //        data sample
 //        ---
 //        <div class="action-bar">
