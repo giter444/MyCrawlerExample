@@ -5,7 +5,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 
 /**
- * 練習： 取得高雄地區實價登錄資料
+ * 練習：取得高雄地區實價登錄資料
  * 1. 請先下載壓縮檔
  * 2. 看說明文件，找出高雄對應的檔案名稱
  * 3. 修改程式碼並上傳至GitHub
