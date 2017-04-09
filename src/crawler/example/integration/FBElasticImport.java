@@ -25,7 +25,7 @@ public class FBElasticImport {
             String uri =
                     "https://graph.facebook.com/v2.6"
                             + "/"+pageName +"/feed?fields=message,comments.limit(0).summary(true),likes.limit(0).summary(true),created_time&since="+(datatime-3600*8)+"&until="+datatime+"&limit=100"
-                            //+ "&access_token=<<<YOUR_APP_TOKEN>>>"; //usertoken(?)+&+apptoken
+                            //+ "&access_token=<<<YOUR_APP_TOKEN>>>"; //usertoken+&+apptoken
                             + "&access_token=1588203038145400|spj48muD26sXsUeGHYNCicn1RO0";
 
 
